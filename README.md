@@ -174,10 +174,6 @@ Xbox Identity Provider,
 Zune Music,
 Zune Video.
 
-## Quick download link
-
-`iwr -useb https://git.io/debloat|iex`
-
 ## Allowlist and Blocklist
 There may be some confusion, but when using the Allowlist/Blocklist, the checkmark means it is on the blocklist, and that it will be removed.
 
