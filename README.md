@@ -1,9 +1,11 @@
-# Windows10Debloater
+# Windows Debloater
+
+### This is my downstream fork with my prefered changes your best luck is with using the upstream repo unless you like my changes.
 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Script/Utility/Application to debloat Windows 10, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more...
+Script/Utility/Application to debloat Windows, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more...
 
 Be sure to look at the Contributors' GitHubs to see if they have GitHub sponsorships as well since they have contributed to this open-source project. (https://github.com/BOB450/Windows10Debloater/graphs/contributors)
 
