@@ -39,7 +39,7 @@ Remember this script **NEEDS** to be run as admin in order to function properly.
 
 ## Sysprep, Interactive, and GUI Application
 
-There are now 3 versions of **Windows10Debloater** - There is an interactive version, a GUI app version, and a pure silent version.
+There are now 2 versions of **WindowsDebloater** - There is an interactive version and GUI app version.
 
 
 
